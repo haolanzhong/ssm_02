@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sm_itheima_service:war">
+    <output-path>$PROJECT_DIR$/sm_itheima_service/target</output-path>
+    <root id="archive" name="sm_itheima_service-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="sm_itheima_service:war exploded" />
+    </root>
+  </artifact>
+</component>
